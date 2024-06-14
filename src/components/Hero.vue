@@ -28,7 +28,7 @@
                     <span class="block font-bold text-dark
                     text-4xl  lg:text-5xl dark:text-white">Edy Susilo</span>
                 </h1>
-                <h2 class="font-medium text-secondary text-2xl mb-5 mt-1 dark:text-slate-300">
+                <h2 class="font-medium text-secondary text-2xl mb-4 mt-2 dark:text-slate-300">
                     Web Developer Enthusiast
                 </h2>
                 <p class="font-medium text-slate-400 mb-5 leading-relaxed">Fresh Graduate in Informatics Engineering with Interest in Web Developing
