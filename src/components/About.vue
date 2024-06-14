@@ -16,11 +16,7 @@
                     <h2 class="font-bold text-dark text-3xl mb-5 max-w-md lg:text-3xl dark:text-white">Fresh Graduate
                         Informatics Engineering
                     </h2>
-                    <p class="font-medium text-base text-secondary max-w-xl lg:text-lg dark:text-slate-300">I am a fresh
-                        graduate from the Informatics study program with a focus on software development and web
-                        technology. During my studies, I have developed a strong understanding of basic programming
-                        principles, algorithms, and data structures. I also have practical experience in developing web
-                        applications, both through personal projects, college assignments, and at internships.</p>
+                    <p class="font-medium text-base text-secondary max-w-xl lg:text-lg dark:text-slate-300">I am a fresh graduate of Informatics with a focus on software development and web technologies. During my studies, I have developed a strong understanding of basic programming principles, algorithms, and data structures. I also have practical experience in developing web applications, both through personal projects, coursework, and internships.</p>
                 </div>
             </div>
         </div>

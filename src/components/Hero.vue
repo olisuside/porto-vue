@@ -29,10 +29,9 @@
                     text-4xl  lg:text-5xl dark:text-white">Edy Susilo</span>
                 </h1>
                 <h2 class="font-medium text-secondary text-2xl mb-4 mt-2 dark:text-slate-300">
-                    Web Developer Enthusiast
+                    Web Developer
                 </h2>
-                <p class="font-medium text-slate-400 mb-5 leading-relaxed">Fresh Graduate in Informatics Engineering with Interest in Web Developing
-                </p>
+                <p class="font-medium text-slate-400 mb-5 leading-relaxed">fresh graduates of informatics engineering with an interest in web development</p>
 
                 <!-- icons -->
                 <div class="flex items-center justify-center">
