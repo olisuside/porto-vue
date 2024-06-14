@@ -15,7 +15,7 @@
                     <div
                         class="bg-white dark:bg-gray-900 rounded-xl shadow-md m-1 p-4 hover:scale-105 transition duration-500 flex flex-col h-full">
                         <div class="rounded-lg overflow-hidden">
-                            <img :src="`/src/assets/${porto.imageSrc}`" :alt="porto.imageAlt"
+                            <img :src="`./src/assets/${porto.imageSrc}`" :alt="porto.imageAlt"
                                 class="max-h-70 sm:h-60 w-full object-cover">
                         </div>
                         <a :href="porto.link" target="_blank"
