@@ -11,7 +11,7 @@
             <div class="flex flex-wrap justify-center">
                 <!-- Card 1 -->
                 <div class="w-5/6 lg:w-1/3 px-2 mb-10">
-                    <div class="bg-white dark:bg-gray-900 rounded-xl shadow-md m-1 p-4 hover:scale-105 transition duration-500 flex flex-col h-full">
+                    <div class="bg-white dark:bg-gray-900 rounded-xl shadow-md m-1 p-4 hover:scale-105 transition-all duration-500 flex flex-col h-full">
                         <div class="rounded-lg overflow-hidden">
                             <img src="../assets/port1.png" alt="porto 1" class="max-h-70 sm:h-60 w-full object-cover">
                         </div>
@@ -20,9 +20,9 @@
                             Sebuah situs travel yang menyediakan berbagai layanan terkait perjalanan, seperti pemesanan tiket pesawat, hotel, paket liburan, penyewaan mobil, dan aktivitas wisata.
                         </p>
                         <div class="mt-4 flex flex-wrap">
-                            <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-dark dark:text-opacity-90">HTML</span>
-                            <span class="bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-dark dark:text-opacity-90">JavaScript</span>
-                            <span class="bg-purple-100 text-purple-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-dark dark:text-opacity-90">TailwindCSS</span>
+                            <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-800 dark:text-blue-100">HTML</span>
+                            <span class="bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-800 dark:text-yellow-100">JavaScript</span>
+                            <span class="bg-purple-100 text-purple-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-purple-800 dark:text-purple-100">TailwindCSS</span>
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
 
                 <!-- Card 2 -->
                 <div class="w-5/6 lg:w-1/3 px-2 mb-10">
-                    <div class="bg-white dark:bg-gray-900 rounded-xl shadow-md m-1 p-4 hover:scale-105 transition duration-500 flex flex-col h-full">
+                    <div class="bg-white dark:bg-gray-900 rounded-xl shadow-md m-1 p-4 hover:scale-105 transition-all duration-500 flex flex-col h-full">
                         <div class="rounded-lg overflow-hidden">
                             <img src="../assets/port2.png" alt="porto 2" class="max-h-70 sm:h-60 w-full object-cover">
                         </div>
@@ -39,9 +39,9 @@
                             Sebuah web aplikasi Point of Sale (POS) yang digunakan oleh bisnis untuk mengelola proses penjualan dan transaksi keuangan mereka. Sistem ini menggunakan payment gateway untuk memudahkan prosesi pembayaran.
                         </p>
                         <div class="mt-4 flex flex-wrap">
-                            <span class="bg-red-100 text-red-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-dark dark:text-opacity-90">Laravel</span>
-                            <span class="bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-dark dark:text-opacity-90">JavaScript</span>
-                            <span class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-dark dark:text-opacity-90">Mazer Bootstrap</span>
+                            <span class="bg-red-100 text-red-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-red-800 dark:text-red-100">Laravel</span>
+                            <span class="bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-800 dark:text-yellow-100">JavaScript</span>
+                            <span class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-800 dark:text-blue-100">Mazer Bootstrap</span>
                         </div>
                     </div>
                 </div>
