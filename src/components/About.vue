@@ -3,7 +3,7 @@
         <div class="container flex items-center justify-between p-6 lg:px-8 max-w-screen-lg">
             <div class="flex flex-wrap items-center">
 
-                <div class="w-full px-24 md:px-4 mb:10 md:w-2/5">
+                <div class="w-full px-8 md:px-4 mb:10 md:w-2/5">
                     <div class="rounded-lg overflow-hidden">
                         <img src="../assets/edy.jpg" alt="Project 1" class=" w-full object-cover">
                     </div>

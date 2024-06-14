@@ -39,7 +39,7 @@
             <!-- Success message after form submission -->
             <div v-if="formSubmitted" key="success-message" class="text-center mt-8">
                 <transition name="fade">
-                    <p class="font-bold text-xl text-purple-500">Pesan Anda telah berhasil dikirim!</p>
+                    <p class="font-bold text-xl text-purple-500">Thank you for your message!</p>
                 </transition>
             </div>
         </div>

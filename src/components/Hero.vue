@@ -31,7 +31,7 @@
                 <h2 class="font-medium text-secondary text-2xl mb-4 mt-2 dark:text-slate-300">
                     Web Developer
                 </h2>
-                <p class="font-medium text-slate-400 mb-5 leading-relaxed">fresh graduates of informatics engineering with an interest in web development</p>
+                <p class="font-medium text-slate-400 mb-5 leading-relaxed">Fresh graduates of informatics engineering with an interest in web development</p>
 
                 <!-- icons -->
                 <div class="flex items-center justify-center">

@@ -26,11 +26,11 @@
                         </p>
                         <div class="mt-4 flex flex-wrap">
                             <span
-                                class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-800 dark:text-blue-100">HTML</span>
+                                class="mt-1 bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-800 dark:text-blue-100">HTML</span>
                             <span
-                                class="bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-800 dark:text-yellow-100">JavaScript</span>
+                                class="mt-1 bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-800 dark:text-yellow-100">JavaScript</span>
                             <span
-                                class="bg-purple-100 text-purple-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-purple-800 dark:text-purple-100">TailwindCSS</span>
+                                class="mt-1 bg-purple-100 text-purple-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-purple-800 dark:text-purple-100">TailwindCSS</span>
                         </div>
                     </div>
                 </div>
@@ -52,11 +52,11 @@
                         </p>
                         <div class="mt-4 flex flex-wrap">
                             <span
-                                class="bg-red-100 text-red-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-red-800 dark:text-red-100">Laravel</span>
+                                class="mt-1 bg-red-100 text-red-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-red-800 dark:text-red-100">Laravel</span>
                             <span
-                                class="bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-800 dark:text-yellow-100">JavaScript</span>
+                                class="mt-1 bg-yellow-100 text-yellow-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-800 dark:text-yellow-100">JavaScript</span>
                             <span
-                                class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-800 dark:text-blue-100">Mazer
+                                class="mt-1 bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-800 dark:text-blue-100">Mazer
                                 Bootstrap</span>
                         </div>
                     </div>
