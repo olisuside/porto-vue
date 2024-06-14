@@ -1,8 +1,8 @@
 <template>
-   <section id="project" class="pt-32 pb-16">
+   <section id="project" class="pt-32 pb-16 transition-all duration-500 bg-slate-50 dark:bg-dark">
         <div class="container mx-auto px-4">
             <div class="max-w-xl mx-auto text-center mb-16">
-                <h4 class="font-semibold text-lg text-primary mb-2 dark:text-primary-light">Portofolio</h4>
+                <h4 class="font-semibold text-lg text-primary mb-2">Portofolio</h4>
                 <h2 class="font-bold text-dark text-3xl mb-4 dark:text-white">Project Terbaru</h2>
                 <p class="font-medium text-md text-secondary dark:text-secondary-light">
                     Berikut adalah beberapa proyek terbaru yang telah saya kerjakan.
