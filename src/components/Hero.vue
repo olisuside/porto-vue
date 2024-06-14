@@ -24,14 +24,14 @@
         <div class="container flex items-center justify-between p-6 lg:px-8 max-w-screen-md h-screen relative z-10">
             <div class="w-full self center text-center shadow-2xl p-20 bg-white/95 dark:bg-dark/90 rounded-lg dark:shadow-none">
                 <h1 class="text-base font-semibold text-primary md:text-xl">
-                    Halo Semua 🙌, Saya
+                    Hello everyone 🙌, I'm
                     <span class="block font-bold text-dark
                     text-4xl  lg:text-5xl dark:text-white">Edy Susilo</span>
                 </h1>
                 <h2 class="font-medium text-secondary text-2xl mb-5 mt-1 dark:text-slate-300">
                     Web Developer Enthusiast
                 </h2>
-                <p class="font-medium text-slate-400 mb-5 leading-relaxed"> Fresh Graduate Informatika dengan Minat di Web Developing
+                <p class="font-medium text-slate-400 mb-5 leading-relaxed">Fresh Graduate in Informatics Engineering with Interest in Web Developing
                 </p>
 
                 <!-- icons -->

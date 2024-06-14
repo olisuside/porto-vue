@@ -11,15 +11,16 @@
                 </div>
 
                 <div class="w-full px-4 md:w-3/5">
-                    <h4 class="font-bold uppercase text-primary text-lg mb-3 md:mt-0 mt-16 dark:text-purple-100">Tentang
-                        Saya</h4>
-                    <h2 class="font-bold text-dark text-3xl mb-5 max-w-md lg:text-3xl dark:text-white">Fresh Graduate Informatika
+                    <h4 class="font-bold uppercase text-primary text-lg mb-3 md:mt-0 mt-16 dark:text-purple-100">About
+                        Me</h4>
+                    <h2 class="font-bold text-dark text-3xl mb-5 max-w-md lg:text-3xl dark:text-white">Fresh Graduate
+                        Informatics Engineering
                     </h2>
-                    <p class="font-medium text-base text-secondary max-w-xl lg:text-lg dark:text-slate-300">Saya adalah
-                        seorang fresh graduate dari program studi Informatika dengan fokus pada pengembangan perangkat
-                        lunak dan teknologi web. Selama masa studi, saya telah mengembangkan pemahaman yang kuat tentang
-                        prinsip-prinsip dasar pemrograman, algoritma, dan struktur data. Saya juga memiliki pengalaman
-                        praktis dalam mengembangkan aplikasi web, baik melalui proyek pribadi, tugas kuliah, maupun di tempat magang.</p>
+                    <p class="font-medium text-base text-secondary max-w-xl lg:text-lg dark:text-slate-300">I am a fresh
+                        graduate from the Informatics study program with a focus on software development and web
+                        technology. During my studies, I have developed a strong understanding of basic programming
+                        principles, algorithms, and data structures. I also have practical experience in developing web
+                        applications, both through personal projects, college assignments, and at internships.</p>
                 </div>
             </div>
         </div>

@@ -14,11 +14,11 @@
                 </a>
             </div>
             <!-- icons end -->
-            <p class="font-medium text-sm text-slate-500 text-center">Dibuat dengan <span
-                    class="text-pink-500 animate-pulse">❤️</span> oleh <a href="" target="_blank"
+            <p class="font-medium text-sm text-slate-500 text-center">Made with <span
+                    class="text-pink-500 animate-pulse">❤️</span> by <a href="" target="_blank"
                     class="text-primary">Edy
                     Susilo</a>,
-                dengan <a href="" target="_blank" class="text-primary">Vue & Tailwind CSS</a>.</p>
+                with <a href="" target="_blank" class="text-primary">Vue & Tailwind CSS</a>.</p>
 
         </div>
     </footer>
