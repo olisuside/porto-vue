@@ -15,7 +15,7 @@
                         <div class="rounded-lg overflow-hidden">
                             <img src="../assets/port1.png" alt="porto 1" class="max-h-70 sm:h-60 w-full object-cover">
                         </div>
-                        <a href="https://github.com/olisuside/liburans-web.git" target="_blank" class="font-semibold text-xl text-primary mt-5 mb-3 dark:text-white">Landing Page Liburans</a>
+                        <a href="https://liburans-web.vercel.app/" target="_blank" class="font-semibold text-xl text-primary mt-5 mb-3 dark:text-white">Landing Page Liburans</a>
                         <p class="font-medium text-base text-secondary mb-auto dark:text-secondary-light">
                             Sebuah situs travel yang menyediakan berbagai layanan terkait perjalanan, seperti pemesanan tiket pesawat, hotel, paket liburan, penyewaan mobil, dan aktivitas wisata.
                         </p>
