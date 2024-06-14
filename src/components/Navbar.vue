@@ -3,7 +3,7 @@
         <nav class="fixed top-0 left-0 right-0 bg-white/90 dark:bg-dark/85 z-50 transition-all duration-500 ">
             <div class="container mx-auto flex items-center justify-between p-6 lg:px-8 max-w-screen-md">
                 <div class="flex lg:flex-1">
-                    <a href="#" class="-m-1.5 p-1.5">
+                    <a href="#home" class="-m-1.5 p-1.5">
                         <span class="sr-only">Your Company</span>
                         <span class="text-xl font-semibold text-primary dark:text-white ">edysusilo</span>
                     </a>
