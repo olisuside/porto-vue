@@ -62,6 +62,28 @@
                     </div>
                 </div>
                 <!-- End Card 2 -->
+
+                <!-- Card 3 -->
+                <div class="w-5/6 lg:w-1/3 px-2 mb-10">
+                    <div
+                        class="bg-white dark:bg-gray-900 rounded-xl shadow-md m-1 p-4 hover:scale-105 transition-all duration-500 flex flex-col h-full">
+                        <div class="rounded-lg overflow-hidden">
+                            <img src="../assets/port3.png" alt="porto 3" class="max-h-70 sm:h-60 w-full object-cover">
+                        </div>
+                        <a href="https://react-kanban-rho.vercel.app/" target="_blank"
+                            class="font-semibold text-xl text-primary mt-5 mb-3 dark:text-white">Kanban Board</a>
+                        <p class="font-medium text-base text-secondary mb-auto dark:text-secondary-light">
+                            Kanban Board is a web application that helps you organize your tasks and projects. It uses a 
+                        </p>
+                        <div class="mt-4 flex flex-wrap">
+                            <span
+                                class="mt-1 bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-800 dark:text-blue-100">React</span>
+                            <span
+                                class="mt-1 bg-purple-100 text-purple-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-purple-800 dark:text-purple-100">TailwindCSS</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Card 3 -->
             </div>
         </div>
     </section>
