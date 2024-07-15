@@ -47,6 +47,8 @@
 </template>
 
 <script>
+import emailjs from 'emailjs-com';
+
 export default {
     data() {
         return {
@@ -61,10 +63,18 @@ export default {
     },
     methods: {
         submitForm() {
-            // Simulate form submission (replace with actual form handling)
-            console.log('Form submitted with data:', this.formData);
-            this.showForm = false; // Hide the form
-            this.formSubmitted = true; // Show success message
+            const serviceID = 'service_mam5mip'; // Ganti dengan Service ID Anda
+            const templateID = 'template_emotid8'; // Ganti dengan Template ID Anda
+            const userID = 'hUB1ZcFrIopoZ1udv'; // Ganti dengan User ID Anda
+
+            emailjs.send(serviceID, templateID, this.formData, userID)
+                .then((response) => {
+                    console.log('SUCCESS!', response.status, response.text);
+                    this.showForm = false; // Hide the form
+                    this.formSubmitted = true; // Show success message
+                }, (error) => {
+                    console.log('FAILED...', error);
+                });
         }
     }
 };
@@ -72,7 +82,7 @@ export default {
 
 <style scoped>
 .fade-enter-active, .fade-leave-active {
-    transition: opacity 0.5s;
+    transition: opacity 0.2s;
 }
 .fade-enter, .fade-leave-to {
     opacity: 0;
