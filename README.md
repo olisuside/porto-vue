@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# My Portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Welcome to my personal portfolio website. This project is built using Vue.js and styled with Tailwind CSS. It showcases my work, skills, and experience.
 
-## Recommended IDE Setup
+## Demo
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+You can view a live demo of the website [here](https://portofolio-edy-six.vercel.app/).
+
+## Features
+
+- Responsive Design
+- Smooth Animations
+- Easy Navigation
+- Portfolio Projects Showcase
+- Dark Mode
